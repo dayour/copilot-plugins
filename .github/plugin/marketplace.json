@@ -96,6 +96,28 @@
       ]
     },
     {
+      "name": "build-perf-cpp",
+      "source": "./plugins/build-perf-cpp",
+      "description": "Analyze MSVC build performance using vcperf.exe and ETL traces.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ion Todirel and Eve Silfanus",
+        "url": "https://github.com/es110"
+      },
+      "homepage": "https://github.com/github/copilot-plugins/tree/main/plugins/build-perf-cpp",
+      "repository": "https://github.com/github/copilot-plugins",
+      "keywords": [
+        "cpp",
+        "c++",
+        "msvc",
+        "vcperf",
+        "build-performance",
+        "build-insights",
+        "compile-time"
+      ],
+      "license": "MIT"
+    },
+    {
       "name": "advanced-security",
       "source": {
         "source": "github",
